@@ -1,0 +1,25 @@
+.clic,.reinicio{
+    padding: 5px;
+    margin: 5px 50%;
+    transform: translateX(-50%);
+    width: 100px;
+    border-radius: 10px;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    border: 0;
+    
+}
+
+.clic:hover,.reinicio:hover{
+    background-color: rgb(45, 180, 45);
+}
+
+.clic{
+    background-color: orange;
+    
+}
+
+.reinicio{
+    background-color: maroon;
+}
